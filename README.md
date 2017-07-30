@@ -1,4 +1,4 @@
-[v0.0.6](https://github.com/littleflute/a40/edit/master/README.md)
+[v0.0.7](https://github.com/littleflute/a40/edit/master/README.md)
 
 [7330_30_Great_Orchestral_Works.pdf](7330_30_Great_Orchestral_Works.pdf)
 
@@ -17,6 +17,12 @@
 ### [cd13](cd13)
 ### [cd14](cd14)
 ### [cd15](cd15)
+### [cd16](cd16)
+### [cd17](cd17)
+### [cd18](cd18)
+### [cd19](cd19)
+### [cd20](cd20)
+
 
 
 
