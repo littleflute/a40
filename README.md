@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/a40/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/a40/edit/master/README.md)
 
 [7330_30_Great_Orchestral_Works.pdf](7330_30_Great_Orchestral_Works.pdf)
 
@@ -7,6 +7,12 @@
 # [cd03](cd03)
 # [cd04](cd04)
 # [cd05](cd05)
+## [cd06](cd06)
+## [cd07](cd07)
+## [cd08](cd08)
+## [cd09](cd09)
+## [cd10](cd10)
+
 
 
 ## Welcome to GitHub Pages
